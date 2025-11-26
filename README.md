@@ -19,6 +19,8 @@ Este projeto foi desenvolvido durante meus estudos de Lógica de Programação e
 Certifique-se de ter o Python instalado.
 
 ```bash
-git clone [https://github.com/Felipedev-git/Calculadora-Python.git](https://github.com/Felipedev-git/Calculadora-Python.git)
+git clone https://github.com/Felipedev-git/Calculadora-Python.git
 cd Calculadora-Python
 python CALCULADORA_v2.py
+
+**Desenvolvido por Felipe de Campos** 🦁
