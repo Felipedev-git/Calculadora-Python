@@ -23,4 +23,3 @@ while True:
     if sair.lower() == 's':
         print('Obrigado por ultilizar!')
         break
-    
